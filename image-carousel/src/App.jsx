@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className='App'>
-          <ImageCarousel count={5}/>
+          <ImageCarousel count={10}/>
       </div>
     </>
   )

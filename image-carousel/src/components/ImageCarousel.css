@@ -20,12 +20,12 @@
 h1 {
     align-items: center;
     position: absolute;
-    top: -6rem;
+    top: -10rem;
 }
 h2 {
     align-items: center;
     position: absolute;
-    top: -3rem;
+    top: -6rem;
 }
 
 .arrow {
@@ -62,4 +62,31 @@ h2 {
 }
 .not-selected {
     background-color: rgb(99, 99, 99);
+}
+
+.imageFormContainer {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 350px;
+    height: 50px;
+    top: -3.5rem;
+}
+.imageForm {
+    display: flex;
+    gap: 5px
+}
+.image-count-input {
+    width: 22px;
+}
+.image-count-button {
+    background-color: white;
+    color: rgb(99, 99, 99);
+    font-weight: 700;
+    flex-basis: 1;
+    width: 60px;
+    height: 25px;
+    border-radius: 8px;
+    border: 2px solid white;
 }
