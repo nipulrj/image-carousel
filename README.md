@@ -1,2 +1,2 @@
 # image-carousel
-[Image Carousel Example](/image-carousel.png "Image Carousel")
+[Image Carousel Link](https://nipulrj.github.io/image-carousel/)
